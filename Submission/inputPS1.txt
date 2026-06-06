@@ -1,0 +1,38 @@
+CASE 1
+NODES 7
+EDGES 8
+MG_Road Electronic_City 2
+MG_Road Koramangala 4
+Electronic_City Whitefield 2
+Whitefield Yelahanka 4
+Whitefield Jayanagar 6
+Jayanagar Yelahanka 2
+Koramangala Hebbal 3
+Hebbal Yelahanka 5
+HEURISTIC MG_Road 6
+HEURISTIC Electronic_City 4
+HEURISTIC Whitefield 4
+HEURISTIC Koramangala 6
+HEURISTIC Jayanagar 2
+HEURISTIC Hebbal 4
+HEURISTIC Yelahanka 0
+SOURCE MG_Road
+DESTINATION Yelahanka
+
+CASE 2
+NODES 5
+EDGES 7
+A B 3
+A C 2
+A E 5
+B D 4
+C D 1
+C E 7
+D E 2
+HEURISTIC A 4
+HEURISTIC B 5
+HEURISTIC C 3
+HEURISTIC D 2
+HEURISTIC E 0
+SOURCE A
+DESTINATION E

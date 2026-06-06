@@ -1,0 +1,15 @@
+=== Case 1 ===
+Source      : MG_Road
+Destination : Yelahanka
+Optimal Path: MG_Road -> Electronic_City -> Whitefield -> Yelahanka
+Total Travel Cost: 8
+Nodes Explored   : 10
+Sequence of Locations: MG_Road, Electronic_City, Whitefield, Yelahanka
+
+=== Case 2 ===
+Source      : A
+Destination : E
+Optimal Path: A -> C -> D -> E
+Total Travel Cost: 5
+Nodes Explored   : 22
+Sequence of Locations: A, C, D, E

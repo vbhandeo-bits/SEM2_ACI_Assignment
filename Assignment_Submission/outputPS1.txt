@@ -1,0 +1,44 @@
+═══════════════════════════════════════
+  SMART WASTE COLLECTION ROUTE OPTIMIZER
+═══════════════════════════════════════
+
+SOURCE: MG_Road
+DESTINATION: Yelahanka
+
+OPTIMAL PATH FOUND:
+MG_Road → Electronic_City → Whitefield → Yelahanka
+
+ROUTE DETAILS:
+├─ Total Travel Cost: 8 units
+├─ Nodes Explored: 10 nodes
+└─ Path Length: 3 hops
+
+SEQUENCE OF VISITED LOCATIONS:
+1. MG_Road
+2. Electronic_City
+3. Whitefield
+4. Yelahanka
+═══════════════════════════════════════
+
+═══════════════════════════════════════
+  SMART WASTE COLLECTION ROUTE OPTIMIZER
+═══════════════════════════════════════
+
+SOURCE: A
+DESTINATION: E
+
+OPTIMAL PATH FOUND:
+A → C → D → E
+
+ROUTE DETAILS:
+├─ Total Travel Cost: 5 units
+├─ Nodes Explored: 22 nodes
+└─ Path Length: 3 hops
+
+SEQUENCE OF VISITED LOCATIONS:
+1. A
+2. C
+3. D
+4. E
+═══════════════════════════════════════
+

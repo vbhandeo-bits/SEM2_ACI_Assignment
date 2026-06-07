@@ -1,4 +1,4 @@
-
+"""
 # Smart Waste Collection Agent - IDA* Algorithm
 **Assignment 1 – PS1**
 
@@ -507,12 +507,11 @@ if cases is not None:
 else:
     print("Failed to load input. Please check the file and try again.")
 
-"""---
+# ---
 
-## 6. Error Handling Demonstrations
+# ## 6. Error Handling Demonstrations
 
-Below we test that our code handles edge cases gracefully.
-"""
+# Below we test that our code handles edge cases gracefully.
 
 print("--- Test: Invalid source node ---")
 test_edges = [('X', 'Y', 5), ('Y', 'Z', 3)]
